@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Heartvyra Digital",
+    "slug": "heartvyra-digital-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "heartvyra",
+    "android": {
+      "package": "com.heartvyradigital.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#05070D"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.heartvyradigital.app",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
